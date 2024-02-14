@@ -2,6 +2,10 @@ import inquirer from 'inquirer';
 import chalk from 'chalk';
 import faker from 'faker';
 
+
+// test 
+
+
 // Function to display ASCII art of a chihuahua
 const displayChihuahuaArt = () => {
     console.log(chalk.yellow(`
